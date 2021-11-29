@@ -1,4 +1,4 @@
-package addresses;
+
 
 public class Address {
     private String number;

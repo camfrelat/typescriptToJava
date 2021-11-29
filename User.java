@@ -1,6 +1,5 @@
 import java.util.Date;
-import addresses.Address;
-import photos.Photo;
+
 
 public class User {
     private Date birthdate;

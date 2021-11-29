@@ -1,4 +1,4 @@
-package photos;
+
 
 public class Photo {
     private String url;
